@@ -10,7 +10,7 @@
     //define password
     DEFINE('PASS','');
     //define smtp user
-    DEFINE('SMTP_USER','musa.joshua@lmu.edu.ng');
+    DEFINE('SMTP_USER','');
     //define password
-    DEFINE('SMTP_PASS','41ea45df');
+    DEFINE('SMTP_PASS','');
 ?>
